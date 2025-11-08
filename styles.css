@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: "Google Sans", sans-serif;
+}
+h1 {
+  background: linear-gradient(
+    to right,
+    rgb(167, 240, 167),
+    rgba(58, 58, 193, 0.877)
+  );
+  background-clip: text;
+  color: transparent;
+}
